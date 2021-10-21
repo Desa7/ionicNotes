@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=VaLaJgus9p8                             |video ionic
+
+https://content.breatheco.de/es/how-to/nvm-install-windows              |instalar nvm (node version manager) para windows
+nvm list                                                                |ver las versiones instaladas de node
+nvm use (version)                                                       |cambiar a la version que quiera
+
+npm i -g @ionic/cli native-run cordova-res                              |instalar ionic
+ionic start gallery tabs --type=angular --capacitor                     |iniciar un proyecto
+cd gallery                                                              |entrar en la carpeta del nuevo proyecto
+code .                                                                  |abrir el proyecto en vs code
+npm i @ionic/pwa-elements                                               |installar package para acceder a funcioalidades del navegador (cam API)
+ionic serve                                                             |iniciar el server
+ionic g s (carpeta)/(service)                                           |generar un servicio
+
+
+
+
+
